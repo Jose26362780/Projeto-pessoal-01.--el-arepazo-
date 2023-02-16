@@ -4,7 +4,7 @@
 ![preview](./assets/projeto%20pessoal.png)
 
 
-> Trilha Explorer 
+> Descrição 
 
 Projeto construido como projeto pessoal é um formulario para agendar mentorias com um menu 
 
